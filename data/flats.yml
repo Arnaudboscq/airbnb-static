@@ -1,0 +1,60 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: "card-paris.jpg"
+  owner_picture: "seb.jpg"
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  rooms: 1
+  rating: 2
+  price: 60€
+
+romain:
+  owner_name: Romain Paillard
+  picture: "card-london.jpeg"
+  owner_picture: "romain.jpeg"
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  rooms: 4
+  rating: 5
+  price: 32€
+
+arnaud:
+  owner_name: Arnaud Boscq
+  picture: "card-brussels.jpeg"
+  owner_picture: "arnaud.jpeg"
+  name: Arnaud's home
+  summary: Biggest appart in Brussels
+  city: Brussels, BE
+  wifi: true
+  rooms: 2
+  rating: 4
+  price: 80€
+
+anne:
+  owner_name: Anne Brewster
+  picture: "card-paris.jpg"
+  owner_picture: "anne.jpg"
+  name: Anne's home
+  summary: Litlle cuttie house
+  city: Paris, FR
+  wifi: true
+  rooms: 3
+  rating: 4
+  price: 43€
+
+alexis:
+  owner_name: Alexis Easy
+  picture: "card-london.jpeg"
+  owner_picture: "alexis.jpeg"
+  name: Alexis's home
+  summary: Big studio maggle
+  city: London, UK
+  wifi: false
+  rooms: 1
+  rating: 2
+  price: 57€
+
